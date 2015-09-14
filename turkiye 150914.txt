@@ -1,0 +1,18 @@
+Akhisar Belediye,0,0,0,0,0,0,0
+Antalyaspor,0,0,0,0,0,0,0
+Baþakþehir,0,0,0,0,0,0,0
+Beþiktaþ,0,0,0,0,0,0,0
+Bursaspor,0,0,0,0,0,0,0
+Ç.Rizespor,0,0,0,0,0,0,0
+Eskiþehirspor,0,0,0,0,0,0,0
+Fenerbahçe,0,0,0,0,0,0,0
+Galatasaray,0,0,0,0,0,0,0
+Gaziantepspor,0,0,0,0,0,0,0
+Gençlerbirliði,0,0,0,0,0,0,0
+Kasýmpaþa,0,0,0,0,0,0,0
+Kayserispor,0,0,0,0,0,0,0
+Mersin ÝY,0,0,0,0,0,0,0
+M.Sivasspor,0,0,0,0,0,0,0
+Osmanlýspor FK,0,0,0,0,0,0,0
+Torku Konyaspor,0,0,0,0,0,0,0
+Trabzonspor,0,0,0,0,0,0,0

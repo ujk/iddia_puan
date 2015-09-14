@@ -1,0 +1,5 @@
+- Evinde galibiyet 2 puan
+- Deplasmanda galibiyet 4 puan
+- Deplasmanda beraberlik 2 puan
+- Evinde beraberlik 1 puan
+- attığı yediğinden fazlaysa puan aldığı her maça +1 puan

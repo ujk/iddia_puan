@@ -1,0 +1,18 @@
+Akhisar Belediye,1,0,1,2,5,3,11
+Antalyaspor,2,1,0,0,9,5,11
+Baþakþehir,1,0,0,0,4,7,2
+Beþiktaþ,1,2,0,0,12,4,13
+Bursaspor,1,0,0,0,4,6,2
+Ç.Rizespor,0,1,2,1,6,5,12
+Eskiþehirspor,1,0,1,0,5,7,3
+Fenerbahçe,2,1,0,1,6,2,14
+Galatasaray,0,1,1,1,8,6,10
+Gaziantepspor,0,1,0,1,1,7,6
+Gençlerbirliði,1,0,0,0,6,9,2
+Kasýmpaþa,1,1,0,0,4,2,8
+Kayserispor,0,1,1,1,4,3,10
+Mersin ÝY,0,0,0,1,4,10,2
+M.Sivasspor,0,0,2,1,6,8,4
+Osmanlýspor FK,0,1,1,1,5,5,7
+Torku Konyaspor,0,1,1,1,5,7,7
+Trabzonspor,1,1,1,0,5,3,10
