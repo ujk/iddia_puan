@@ -134,6 +134,11 @@
          <string>Türkiye Süper Lig</string>
         </property>
        </item>
+       <item>
+        <property name="text">
+         <string>Almanya Bundesliga</string>
+        </property>
+       </item>
       </widget>
      </item>
      <item row="1" column="3">
