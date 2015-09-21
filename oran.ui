@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>290</width>
+    <height>421</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>10</y>
+     <width>47</width>
+     <height>13</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Oranlar</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="oran1Edit">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>30</y>
+     <width>61</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>0.0</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="oran2Edit">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>50</y>
+     <width>61</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>0.0</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="oran3Edit">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>70</y>
+     <width>61</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>0.0</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="oran4Edit">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>90</y>
+     <width>61</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>0.0</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="oran5Edit">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>110</y>
+     <width>61</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>0.0</string>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="resultEdit">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>170</y>
+     <width>231</width>
+     <height>241</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>150</y>
+     <width>81</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Hesap Sonuçları</string>
+   </property>
+  </widget>
+  <widget class="QGroupBox" name="groupBox">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>10</y>
+     <width>71</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>Kolon Sayısı</string>
+   </property>
+   <widget class="QRadioButton" name="k3Radio">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>20</y>
+      <width>41</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>3</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="k4Radio">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>40</y>
+      <width>41</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>4</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="k5Radio">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>60</y>
+      <width>41</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>5</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QGroupBox" name="groupBox_2">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>10</y>
+     <width>81</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>Sistem Sayısı</string>
+   </property>
+   <widget class="QRadioButton" name="s3Radio">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>20</y>
+      <width>41</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>3</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="s4Radio">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>40</y>
+      <width>41</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>4</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="s5Radio">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>60</y>
+      <width>41</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>5</string>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>k5Radio</sender>
+   <signal>clicked()</signal>
+   <receiver>Form</receiver>
+   <slot>kRadioClicked()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>123</x>
+     <y>81</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>114</x>
+     <y>108</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>k4Radio</sender>
+   <signal>clicked()</signal>
+   <receiver>Form</receiver>
+   <slot>kRadioClicked()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>129</x>
+     <y>62</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>125</x>
+     <y>105</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>k3Radio</sender>
+   <signal>clicked()</signal>
+   <receiver>Form</receiver>
+   <slot>kRadioClicked()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>120</x>
+     <y>34</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>139</x>
+     <y>106</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>s5Radio</sender>
+   <signal>clicked()</signal>
+   <receiver>Form</receiver>
+   <slot>sRadioClicked()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>217</x>
+     <y>78</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>270</x>
+     <y>77</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>s4Radio</sender>
+   <signal>clicked()</signal>
+   <receiver>Form</receiver>
+   <slot>sRadioClicked()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>211</x>
+     <y>59</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>276</x>
+     <y>65</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>s3Radio</sender>
+   <signal>clicked()</signal>
+   <receiver>Form</receiver>
+   <slot>sRadioClicked()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>213</x>
+     <y>40</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>283</x>
+     <y>43</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <slot>kRadioClicked()</slot>
+  <slot>sRadioClicked()</slot>
+ </slots>
+</ui>

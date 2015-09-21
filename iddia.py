@@ -38,6 +38,8 @@ def selectLig(self,selection):
 		fileName = "turkiye.txt"
 	elif selection == "Almanya Bundesliga":
 		fileName = "bundesliga.txt"
+	elif selection == "Türkiye PTT 1. Lig":
+		fileName = "ptt.txt"
 	else:
 		fileName = "turkiye.txt"
 	file = open(fileName,'r')

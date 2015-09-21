@@ -1,0 +1,18 @@
+1461 Trabzon,0,3,1,0,6,6,13
+Adana Demirspor,2,0,0,1,7,5,9
+Adanaspor,1,1,0,2,9,8,14
+Alanyaspor,1,0,1,0,5,9,3
+Altýnordu,2,0,0,2,7,8,8
+Balýkesirspor,1,0,2,1,7,6,10
+Boluspor,0,0,2,1,2,6,4
+Denizlispor,1,0,0,0,4,9,2
+Elazýðspor,1,2,1,1,11,5,18
+Gaziantep BÞB,0,2,2,1,5,3,17
+Giresunspor,1,1,0,1,5,5,8
+Göztepe,0,2,1,1,7,5,15
+K. Erciyesspor,0,0,1,1,2,7,3
+K. Karabükspor,1,2,1,0,7,6,15
+Karþýyaka,1,0,1,1,6,8,5
+Samsunspor,2,1,1,1,14,5,16
+Þanlýurfaspor,1,0,2,0,2,4,4
+Yeni Malatyaspor,1,0,0,2,3,4,6

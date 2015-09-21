@@ -11,7 +11,7 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 class Ui_mainForm(object):
     def setupUi(self, mainForm):
         mainForm.setObjectName("mainForm")
-        mainForm.resize(725, 74)
+        mainForm.resize(739, 74)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Preferred)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
@@ -81,6 +81,7 @@ class Ui_mainForm(object):
         self.selectComboBox.setObjectName("selectComboBox")
         self.selectComboBox.addItem("")
         self.selectComboBox.addItem("")
+        self.selectComboBox.addItem("")
         self.gridLayout.addWidget(self.selectComboBox, 0, 1, 1, 1)
         self.label_5 = QtWidgets.QLabel(mainForm)
         font = QtGui.QFont()
@@ -132,6 +133,7 @@ class Ui_mainForm(object):
         self.label.setText(_translate("mainForm", "LİG:"))
         self.selectComboBox.setItemText(0, _translate("mainForm", "Türkiye Süper Lig"))
         self.selectComboBox.setItemText(1, _translate("mainForm", "Almanya Bundesliga"))
+        self.selectComboBox.setItemText(2, _translate("mainForm", "Türkiye PTT 1. Lig"))
         self.label_5.setText(_translate("mainForm", "Evinde Beraber"))
         self.saveButton.setText(_translate("mainForm", "Tabloyu Kaydet"))
         self.label_2.setText(_translate("mainForm", "Takım"))

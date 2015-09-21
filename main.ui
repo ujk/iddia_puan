@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>725</width>
+    <width>739</width>
     <height>74</height>
    </rect>
   </property>
@@ -137,6 +137,11 @@
        <item>
         <property name="text">
          <string>Almanya Bundesliga</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>Türkiye PTT 1. Lig</string>
         </property>
        </item>
       </widget>
